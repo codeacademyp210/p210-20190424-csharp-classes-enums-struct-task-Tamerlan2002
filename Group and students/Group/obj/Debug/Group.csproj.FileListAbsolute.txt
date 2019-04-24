@@ -1,0 +1,7 @@
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\bin\Debug\Group.exe.config
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\bin\Debug\Group.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\bin\Debug\Group.pdb
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\obj\Debug\Group.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\obj\Debug\Group.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Groups and Students\Group and students\Group\obj\Debug\Group.pdb
